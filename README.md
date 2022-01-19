@@ -17,7 +17,8 @@
 ## Links:
 * [My LinkedIn Profile](https://www.linkedin.com/in/prasanna-reddy-arla-0b0390222/)
 * [My Github Profile](https://github.com/PRASANNAARLA)
-
+## My Photo:
+![My Photo](https://media-exp1.licdn.com/dms/image/C4E03AQHdGwHFyO0lOQ/profile-displayphoto-shrink_400_400/0/1642627754197?e=1648080000&v=beta&t=4xAmlOjnh4ZQnk2Ny51Xi8WK0oeM7nljiRt3lJUi1UQ)
 
 
 
